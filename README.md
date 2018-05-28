@@ -1,2 +1,2 @@
 # Program
-Just to learn the Git Hub
+Just to learn the Git Hub.
